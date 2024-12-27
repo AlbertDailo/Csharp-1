@@ -1,0 +1,14 @@
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.AssemblyInfoInputs.cache
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.AssemblyInfo.cs
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.csproj.CoreCompileInputs.cache
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.dll
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\refint\Albertos.dll
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.pdb
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\bin\Debug\net9.0\Albertos.exe
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\bin\Debug\net9.0\Albertos.deps.json
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\bin\Debug\net9.0\Albertos.runtimeconfig.json
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\bin\Debug\net9.0\Albertos.dll
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\bin\Debug\net9.0\Albertos.pdb
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\Albertos.genruntimeconfig.cache
+C:\Users\missk\OneDrive\Desktop\C#\Projects\Albertos\obj\Debug\net9.0\ref\Albertos.dll
