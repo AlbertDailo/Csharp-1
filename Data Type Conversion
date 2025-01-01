@@ -1,0 +1,17 @@
+using System;
+
+namespace albertoos
+{
+    class Program
+    {
+        static void Main(string[] args) 
+        {
+            Console.Write("ENTER NumOne: ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("ENTER NumTwo: ");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(num1+"+"+num2+"= "+(num1+num2) );
+
+        }
+    }
+}
